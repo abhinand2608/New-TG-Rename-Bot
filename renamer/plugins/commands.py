@@ -15,7 +15,6 @@ from pyrogram.emoji import *
 async def help(c, m, cb=False):
     button = [[
         InlineKeyboardButton(f'⚡ Home', callback_data='back'),
-        InlineKeyboardButton(f'{MONEY_BAG} Donate', callback_data='donate')
         ],[
         InlineKeyboardButton(f'✖️ Close', callback_data='close')
     ]]
@@ -75,7 +74,6 @@ async def about(c, m, cb=False):
 
     button = [[
         InlineKeyboardButton(f'⚡ Home', callback_data='back'),
-        InlineKeyboardButton(f'💰 Donate', callback_data='donate')
         ],[
         InlineKeyboardButton(f'✖️ Close', callback_data="close")
     ]]
