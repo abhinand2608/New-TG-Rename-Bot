@@ -18,7 +18,6 @@ class TEXT:
 ** ➜ Language:** [Python 3](https://www.python.org/)
 ** ➜ FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 ** ➜ Developer:** {bot_owner}
-** ➜ Channel:** [Compass Botz](https://t.me/Compass_Botz)
 
 """
 
