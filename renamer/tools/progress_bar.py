@@ -28,7 +28,7 @@ async def progress_bar(current, total, status_msg, start, msg):
 **┣⊸⌊ᴅᴏɴᴇ⌉** {humanbytes(current)}
 **┣⊸⌊ꜱɪᴢᴇ⌉** {humanbytes(total)}
 **┣⊸⌊ᴇᴛᴀ⌉** {time_to_complete}
-**╰─⌊⚡ᴅʟᴀɪᴢᴇ⌉**
+**╰─⌊WAIT FOR IT 😹⚡**
 """
         try:
             await msg.edit(text=current_message)
