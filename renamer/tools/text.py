@@ -19,7 +19,7 @@ class TEXT:
 ** ➜ FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 ** ➜ Developer:** {bot_owner}
 ** ➜ Channel:** [Compass Botz](https://t.me/Compass_Botz)
-** ➜ Source Code:** [Press Me](https://github.com/dakshkohli23/New-TG-Rename-Bot)
+
 """
 
     HELP_USER = """**🚨 ᴏʜ! ʏᴏᴜ ɴᴇᴇᴅ ʜᴇʟᴘ!**
